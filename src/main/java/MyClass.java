@@ -10,5 +10,5 @@ public class MyClass {
 
     public String str5 = "This is another String created in the techpro branch.";
 
-    public String str6 = "This is one more String.";
+    public String str6 = "This is a changed String.";
 }
