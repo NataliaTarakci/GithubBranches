@@ -13,4 +13,6 @@ public class MyClass {
     public String str6 = "This is a changed String.";
 
     public String str7 = "Here are some changes";
+
+    public String str8 = "Some other changes";
 }
