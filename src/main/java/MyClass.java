@@ -19,4 +19,6 @@ public class MyClass {
     public String str9 = "Here are even more changes";
 
     public String str10 = "Here are some more changes.";
+
+    public String str11 = "Here are some more even more changes.";
 }
