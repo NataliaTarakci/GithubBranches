@@ -1,4 +1,8 @@
 public class MyClass {
 
     public String str1 = "This is a String";
+
+    public String str2 = "This is another String";
+
+    public String str3 = "This is another String";
 }
